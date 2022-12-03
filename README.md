@@ -7,3 +7,8 @@ A repository of simulations and image filters, produced in the context of a PhD 
 ## FFT Filters
 
 ### Halation
+
+### Lens Blur
+Generalized lens blur that assumes the kernel as a disc.
+
+### Diffraction
