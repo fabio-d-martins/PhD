@@ -13,6 +13,8 @@ Generalized lens blur that assumes the kernel as a disc.
 
 ### Diffraction
 
+---
+
 ## FFT Filters (Python / OpenCV / Numpy)
 
 ### Halation
