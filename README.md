@@ -12,8 +12,8 @@ Simulates light propagation according to the inverse square law.
 ### Lens Blur
 Generalized lens blur that assumes the kernel as a disc.
 
-### Diffraction
-Image filter that convolves the PSF of a diffracted aperture, generalized as a radially revolved sinc function, with an image.
+### Sinc Blur
+Image filter that convolves a radially revolved sinc function with an image. A generalized, though not accurate, circular aperture diffraction simulation.
 
 ---
 
